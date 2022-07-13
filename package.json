@@ -2,7 +2,7 @@
   "name": "currency-converter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kostyapetukhov.github.io/CurrencyConverter",
+  "homepage": "https://kostyapetukhov.github.io/CurrencyConverter/",
   "dependencies": {
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
