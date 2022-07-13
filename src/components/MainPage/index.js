@@ -9,7 +9,6 @@ import { makeStyles } from '@mui/styles';
 const useStyles = makeStyles({
 	page: {
 		margin: 50,
-		maxWidth: 1000,
 		display: 'flex',
 		flexDirection: 'column',
 		alignItems: 'center',
